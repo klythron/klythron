@@ -35,7 +35,7 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/klythron" target="https://www.linkedin.com/in/sofonyas-yared-b1545334b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFd0D4EBsTunKBZaX_h57gr0dEIxr1czYfA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BH2qBLHs6SUOjX4q%2ByFDIIA%3D%3D">
+  <a href="https://www.linkedin.com/in/klythron" target="">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:klythron@gmail.com">
