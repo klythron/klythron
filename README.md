@@ -38,7 +38,7 @@
   <a href="https://www.linkedin.com/in/klythron" target="">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="klythron@gmail.com">
+  <a href="http://klythron@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
