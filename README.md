@@ -35,10 +35,10 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/klythron" target="blank">
+  <a href="https://linkedin.com/in/klythron" target="https://www.linkedin.com/in/sofonyas-yared-b1545334b?miniProfileUrn=urn%3Ali%3Afs_miniProfile%3AACoAAFd0D4EBsTunKBZaX_h57gr0dEIxr1czYfA&lipi=urn%3Ali%3Apage%3Ad_flagship3_search_srp_all%3BH2qBLHs6SUOjX4q%2ByFDIIA%3D%3D">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:klythron@example.com">
+  <a href="mailto:klythron@gmail.com">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
