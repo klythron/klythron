@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast | Network Administrator | AI Builder</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Cybersecurity+Enthusiast;Network+Administrator;J.A.R.V.I.S+Builder;Linux+and+Terminal+Lover;Always+Learning..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=450&lines=Cybersecurity+Enthusiast;Network+Administrator;Linux+and+Terminal+Lover;Always+Learning..." alt="Typing SVG" />
 </p>
 
 ---
